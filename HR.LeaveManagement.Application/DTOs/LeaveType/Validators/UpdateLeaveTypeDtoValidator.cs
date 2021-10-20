@@ -2,7 +2,7 @@
 
 namespace HR.LeaveManagement.Application.DTOs.LeaveType.Validators
 {
-    public class UpdateLeaveTypeDtoValidator : AbstractValidator<LeaveTypeDto>
+    public class UpdateLeaveTypeDtoValidator : AbstractValidator<UpdateLeaveTypeDto>
     {
         public UpdateLeaveTypeDtoValidator()
         {
